@@ -1,0 +1,19 @@
+{
+  "name": "pequality.vote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotthasbrouck/pequality.git"
+  },
+  "author": "Scott Hasbrouck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotthasbrouck/pequality/issues"
+  },
+  "homepage": "https://github.com/scotthasbrouck/pequality#readme"
+}
